@@ -3,4 +3,4 @@ Folder ini berisi dokumentasi belajar Python untuk analisis data.... konten dari
 
 ## konten
 ### Sesi 01: Membaca Data dan Mengetahui Struktur Data, termasuk membuat variabel baru dalam data
-### Sesi 02: (under construction)
+### Sesi 02: Menampilkan Statistik Deskriptif Sederhana
